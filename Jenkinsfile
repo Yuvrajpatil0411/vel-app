@@ -17,7 +17,7 @@ pipeline {
 
 					steps {
 
-						echo "hello velocity"
+						echo "hello master branch"
 					}
 			}
 
